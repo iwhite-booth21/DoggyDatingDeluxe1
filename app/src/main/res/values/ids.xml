@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rlSend" type="id" />
+    <item name="etMessage" type="id" />
+    <item name="ibSend" type="id" />
+    <item name="tvName" type="id" />
+    <item name="ivProfileOther" type="id" />
+    <item name="tvBody" type="id" />
+    <item name="ivProfileMe" type="id" />
+</resources>
